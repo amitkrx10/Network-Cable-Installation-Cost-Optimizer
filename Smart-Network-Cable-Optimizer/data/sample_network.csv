@@ -1,0 +1,10 @@
+source,destination,distance_m,cable_type,cost_per_meter,installation_charge
+A,B,200,Ethernet,15,1000
+A,C,100,Ethernet,10,1000
+B,C,50,Ethernet,10,500
+B,D,150,Fiber Optic,25,1250
+C,D,250,Fiber Optic,28,1000
+C,E,300,Fiber Optic,30,1000
+D,E,100,Ethernet,15,500
+D,F,200,Fiber Optic,25,1000
+E,F,150,Ethernet,15,750
